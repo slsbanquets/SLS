@@ -129,19 +129,20 @@ export default function AboutUs() {
               {
                 icon: BuildingOffice2Icon,
                 title: "Ground Floor – Parking Area",
-                desc: "Good and secure parking for guests, ensuring convenience for every event.",
+                desc: "Well-organized and secure parking area designed for guests’ convenience. The ground floor offers limited parking space with proper lighting and easy vehicle access, ensuring a smooth arrival and departure experience for every event.",
+
                 gradient: "from-[#FFD447] via-[#FF6F61] to-[#FFD447]",
               },
               {
                 icon: UsersIcon,
                 title: "First & Second Floor – Main Function Hall",
-                desc: "Elegant interiors and professional stage setup — ideal for weddings and receptions in Vijayawada.",
+                desc: "Elegant interiors and a professional stage setup — ideal for weddings, receptions, and cultural events in Vijayawada. The spacious hall features premium lighting, comfortable seating,for every celebration.",
                 gradient: "from-[#FF6F61] via-[#FFD447] to-[#FF6F61]",
               },
               {
                 icon: Squares2X2Icon,
-                title: "Third Floor – Dressing Suites / Vididhillu",
-                desc: "Luxurious dressing suites and Vididhillu space for traditional pre-wedding rituals.",
+                title: "Third Floor –2(3 BHK) Dressing Rooms Suites / Vididhillu / ",
+                 desc: "Luxurious dressing suites, Vididhillu space for traditional pre-wedding rituals, and two elegant 3 BHK room suites offering premium comfort and convenience for guests.",
                 gradient: "from-[#3498DB] via-[#FFD447] to-[#FF6F61]",
               },
             ].map((item, index) => (

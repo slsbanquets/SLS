@@ -135,9 +135,9 @@ export default function Services() {
             </span>
           </h2>
           <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto">
-            SLS Banquets in Kandrika, Vijayawada offers wedding halls, birthday
-            party halls, private event spaces, and cultural venues designed to
-            make your celebrations unforgettable.
+            SLS Banquets in Kandrika, Vijayawada offers wedding halls, birthday party halls, private event spaces, and cultural venues designed to make your celebrations unforgettable.
+           The spacious hall comfortably accommodates 200 to 250 guests, making it ideal for intimate to mid-sized gatherings.",
+
           </p>
         </div>
 
