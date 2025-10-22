@@ -132,7 +132,7 @@ export default function Footer() {
         <p className="mt-2 md:mt-0 text-xs">
           Designed by{" "}
           <a
-            href="https://vaweglobaltech.com"
+            href="https://www.vawetechnologies.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-400 hover:text-white font-medium"
