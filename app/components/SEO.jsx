@@ -1,39 +1,3 @@
-// "use client";
-// import Head from "next/head";
-
-// export default function SEO({ 
-//   title = "SLS Banquets | Mini Function Hall in Vijayawada",
-//   description = "SLS Banquets is the premium mini function hall in Kandrika, Vijayawada. Perfect for weddings, receptions, birthdays, cultural programs, and corporate events.",
-//   keywords = "function hall in Vijayawada, banquet hall Kandrika, wedding hall Vijayawada, birthday party hall, cultural events, SLS Banquets",
-//   url = "https://sls-banquets.vercel.app",
-//   image = "/logo7.png"
-// }) {
-//   return (
-//     <Head>
-//       <title>{title}</title>
-//       <meta name="description" content={description} />
-//       <meta name="keywords" content={keywords} />
-//       <meta name="author" content="SLS Banquets" />
-
-//       {/* Open Graph / Social Media */}
-//       <meta property="og:title" content={title} />
-//       <meta property="og:description" content={description} />
-//       <meta property="og:type" content="website" />
-//       <meta property="og:url" content={url} />
-//       <meta property="og:image" content={image} />
-
-//       {/* Twitter */}
-//       <meta name="twitter:card" content="summary_large_image" />
-//       <meta name="twitter:title" content={title} />
-//       <meta name="twitter:description" content={description} />
-//       <meta name="twitter:image" content={image} />
-
-//       {/* Favicon */}
-//       <link rel="icon" href="/favicon.ico" />
-//     </Head>
-//   );
-// }
-
 
 
 

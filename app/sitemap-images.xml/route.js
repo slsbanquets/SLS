@@ -11,6 +11,7 @@ export async function GET() {
       caption: "Premium mini function hall in Kandrika, Vijayawada with modern amenities",
       license: `${baseUrl}/`,
     },
+    
     {
       loc: `${baseUrl}/heroimg2.jpg`,
       title: "Wedding Hall in Vijayawada",
