@@ -37,7 +37,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata = {
-  metadataBase: new URL("https://sls-banquets.vercel.app"),
+  metadataBase: new URL("https://www.slsbanquets.com"),
   title: {
     default: "SLS Banquets | Mini Function Hall in Vijayawada",
     template: "%s | SLS Banquets",

@@ -24,7 +24,7 @@ export default function robots() {
       "https://www.slsbanquets.com/sitemap.xml",
       "https://www.slsbanquets.com/sitemap-images.xml"
     ],
-    host: "https://sls-banquets.vercel.app",
+    host: "https://www.slsbanquets.com",
   };
 }
 

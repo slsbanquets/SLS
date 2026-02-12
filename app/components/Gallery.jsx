@@ -34,7 +34,7 @@ export default function Gallery() {
     name: "SLS Banquets Gallery - Function Hall Vijayawada",
     description:
       "Photo gallery of SLS Banquets, the best function hall in Kandrika Vijayawada. Explore wedding decor, stage setups, lighting, and event spaces.",
-    image: images.map((img) => `https://sls-banquets.vercel.app${img.src}`),
+    image: images.map((img) => `https://www.slsbanquets.com${img.src}`),
   };
 
   return (
@@ -62,11 +62,11 @@ export default function Gallery() {
         />
         <meta
           property="og:image"
-          content="https://sls-banquets.vercel.app/galleryimg1.jpg"
+          content="https://www.slsbanquets.com/galleryimg1.jpg"
         />
         <meta
           property="og:url"
-          content="https://sls-banquets.vercel.app/#gallery"
+          content="https://www.slsbanquets.com/#gallery"
         />
         <meta property="og:type" content="website" />
         <script

@@ -26,8 +26,8 @@ export default function AboutUs() {
     description:
       "SLS Banquets is a premium mini function hall in Kandrika, Vijayawada. Perfect for weddings, receptions, birthdays, cultural programs, and corporate events.",
     image: [
-      "https://sls-banquets.vercel.app/heroimg.jpg",
-      "https://sls-banquets.vercel.app/galleryimg2.jpg",
+      "https://www.slsbanquets.com/heroimg.jpg",
+      "https://www.slsbanquets.com/galleryimg2.jpg",
     ],
     address: {
       "@type": "PostalAddress",
@@ -38,7 +38,7 @@ export default function AboutUs() {
       addressCountry: "IN",
     },
     telephone: "+91-9876543210",
-    url: "https://sls-banquets.vercel.app/",
+    url: "https://www.slsbanquets.com/",
     openingHours: "Mo-Su 08:00-23:00",
     geo: {
       "@type": "GeoCoordinates",
@@ -71,9 +71,9 @@ export default function AboutUs() {
           content="Celebrate your special occasions at SLS Banquets in Kandrika, Vijayawada. Elegant interiors, spacious halls, and a blend of tradition with modern style."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sls-banquets.vercel.app/about" />
-        <meta property="og:image" content="https://sls-banquets.vercel.app/heroimg.jpg" />
-        <link rel="canonical" href="https://sls-banquets.vercel.app/about" />
+        <meta property="og:url" content="https://www.slsbanquets.com/about" />
+        <meta property="og:image" content="https://www.slsbanquets.com/heroimg.jpg" />
+        <link rel="canonical" href="https://www.slsbanquets.com/about" />
 
         {/* Structured Data */}
         <script

@@ -41,7 +41,7 @@ export default function HeroSection() {
           content="function hall in Vijayawada, mini function hall, wedding hall, party hall, banquet hall, event venue"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://sls-banquets.vercel.app/" />
+        <link rel="canonical" href="https://www.slsbanquets.com/" />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"
@@ -50,7 +50,7 @@ export default function HeroSection() {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               name: "SLS Banquets",
-              image: images.map((img) => `https://sls-banquets.vercel.app${img.src}`),
+              image: images.map((img) => `https://www.slsbanquets.com${img.src}`),
               address: {
                 "@type": "PostalAddress",
                 streetAddress: "S L S ENCLAVE, DNO: 77-149-20, Plot No: 137, Journalist Colony, Rajiv-Kandrika Main Rd (48 R Bus route), Payakapuram",
@@ -60,7 +60,7 @@ export default function HeroSection() {
                 addressCountry: "IN"
               },
               telephone: "+917672024124",
-              url: "https://sls-banquets.vercel.app",
+              url: "https://www.slsbanquets.com",
               openingHours: "Mo-Su 09:00-22:00",
               sameAs: [
                 "https://www.facebook.com/SLSBanquets",

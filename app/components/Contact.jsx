@@ -11,7 +11,7 @@ export default function Contact() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "SLS Banquets",
-    "image": "https://sls-banquets.vercel.app/heroimg1.jpg",
+    "image": "https://www.slsbanquets.com/heroimg1.jpg",
     "telephone": "+91 7672024124",
     "address": {
       "@type": "PostalAddress",
@@ -21,7 +21,7 @@ export default function Contact() {
       "postalCode": "520010",
       "addressCountry": "IN"
     },
-    "url": "https://sls-banquets.vercel.app/",
+    "url": "https://www.slsbanquets.com/",
     "sameAs": [
       "https://wa.me/917672024124"
     ],
@@ -51,8 +51,8 @@ export default function Contact() {
           property="og:description"
           content="Reach SLS Banquets in Kandrika, Vijayawada. Book your wedding, birthday, or corporate event at our premium function hall. Call or WhatsApp now!"
         />
-        <meta property="og:image" content="https://sls-banquets.vercel.app/heroimg1.jpg" />
-        <meta property="og:url" content="https://sls-banquets.vercel.app/#contact" />
+        <meta property="og:image" content="https://www.slsbanquets.com/heroimg1.jpg" />
+        <meta property="og:url" content="https://www.slsbanquets.com/#contact" />
         <meta property="og:type" content="website" />
         <script
           type="application/ld+json"

@@ -233,7 +233,7 @@ export default function Facilities() {
       addressCountry: "IN",
     },
     telephone: "+91 7672024124",
-    url: "https://sls-banquets.vercel.app/",
+    url: "https://www.slsbanquets.com/",
     areaServed: "Vijayawada",
     hasMap: "https://www.google.com/maps/place/Kandrika+Vijayawada",
     amenityFeature: facilities.map((f) => ({
@@ -260,8 +260,8 @@ export default function Facilities() {
           property="og:description"
           content="Discover top facilities at SLS Banquets in Kandrika, Vijayawada. Elegant mini function hall, air-conditioning, stage, seating, parking, restrooms, and extra rooms."
         />
-        <meta property="og:image" content="https://sls-banquets.vercel.app/heroimg1.jpg" />
-        <meta property="og:url" content="https://sls-banquets.vercel.app/#facilities" />
+        <meta property="og:image" content="https://www.slsbanquets.com/heroimg1.jpg" />
+        <meta property="og:url" content="https://www.slsbanquets.com/#facilities" />
         <meta property="og:type" content="website" />
         <script
           type="application/ld+json"

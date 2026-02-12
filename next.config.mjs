@@ -7,11 +7,11 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "sls-banquets.vercel.app",
+        hostname: "upload.wikimedia.org",
       },
       {
         protocol: "https",
-        hostname: "upload.wikimedia.org",
+        hostname: "www.slsbanquets.com",
       },
     ],
   },

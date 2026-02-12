@@ -74,7 +74,7 @@ export default function Services() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "SLS Banquets",
-    "image": "https://sls-banquets.vercel.app/heroimg.jpg",
+    "image": "https://www.slsbanquets.com/heroimg.jpg",
     "description":
       "SLS Banquets is the best function hall in Kandrika, Vijayawada offering wedding halls, birthday party halls, and cultural event venues.",
     "address": {
@@ -86,7 +86,7 @@ export default function Services() {
       "addressCountry": "IN",
     },
     "telephone": "+91 7672024124",
-    "url": "https://sls-banquets.vercel.app/",
+    "url": "https://www.slsbanquets.com/",
     "priceRange": "₹₹₹",
     "sameAs": [
       "https://www.instagram.com/",
@@ -113,8 +113,8 @@ export default function Services() {
           content="Discover elegant wedding and event spaces at SLS Banquets in Kandrika, Vijayawada. Perfect for receptions, parties, and cultural events."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sls-banquets.vercel.app/#services" />
-        <meta property="og:image" content="https://sls-banquets.vercel.app/heroimg.jpg" />
+        <meta property="og:url" content="https://www.slsbanquets.com/#services" />
+        <meta property="og:image" content="https://www.slsbanquets.com/heroimg.jpg" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
