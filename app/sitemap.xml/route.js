@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 
 export async function GET() {
-  const baseUrl = "https://sls-banquets.vercel.app";
+  const baseUrl = "https://www.slsbanquets.com/";
   const today = new Date().toISOString().split("T")[0];
 
   const entries = [
